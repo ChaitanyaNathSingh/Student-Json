@@ -1,1 +1,82 @@
-[{ "id": 1, "name": "John Smith", "age": 18, "maths": 90, "physics": 85, "chemistry": 95 },  { "id": 2, "name": "Sarah Lee", "age": 17, "maths": 80, "physics": 90, "chemistry": 85 },  { "id": 3, "name": "David Kim", "age": 18, "maths": 95, "physics": 92, "chemistry": 90 },  { "id": 4, "name": "Emily Chen", "age": 16, "maths": 75, "physics": 85, "chemistry": 80 },  { "id": 5, "name": "Alex Wong", "age": 17, "maths": 85, "physics": 80, "chemistry": 90 },  { "id": 6, "name": "Olivia Liu", "age": 16, "maths": 92, "physics": 95, "chemistry": 88 },  { "id": 7, "name": "Ethan Kim", "age": 18, "maths": 90, "physics": 88, "chemistry": 85 },  { "id": 8, "name": "Mia Chen", "age": 17, "maths": 82, "physics": 80, "chemistry": 90 },  { "id": 9, "name": "Lucas Lee", "age": 16, "maths": 78, "physics": 75, "chemistry": 80 },  { "id": 10, "name": "Lily Xu", "age": 17, "maths": 85, "physics": 90, "chemistry": 92 }]
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "age": 18,
+    "maths": 90,
+    "physics": 85,
+    "chemistry": 95
+  },
+  {
+    "id": 2,
+    "name": "Sarah Lee",
+    "age": 17,
+    "maths": 80,
+    "physics": 90,
+    "chemistry": 85
+  },
+  {
+    "id": 3,
+    "name": "David Kim",
+    "age": 18,
+    "maths": 95,
+    "physics": 92,
+    "chemistry": 90
+  },
+  {
+    "id": 4,
+    "name": "Emily Chen",
+    "age": 16,
+    "maths": 75,
+    "physics": 85,
+    "chemistry": 80
+  },
+  {
+    "id": 5,
+    "name": "Alex Wong",
+    "age": 17,
+    "maths": 85,
+    "physics": 80,
+    "chemistry": 90
+  },
+  {
+    "id": 6,
+    "name": "Olivia Liu",
+    "age": 16,
+    "maths": 92,
+    "physics": 95,
+    "chemistry": 88
+  },
+  {
+    "id": 7,
+    "name": "Ethan Kim",
+    "age": 18,
+    "maths": 90,
+    "physics": 88,
+    "chemistry": 85
+  },
+  {
+    "id": 8,
+    "name": "Mia Chen",
+    "age": 17,
+    "maths": 82,
+    "physics": 80,
+    "chemistry": 90
+  },
+  {
+    "id": 9,
+    "name": "Lucas Lee",
+    "age": 16,
+    "maths": 78,
+    "physics": 75,
+    "chemistry": 80
+  },
+  {
+    "id": 10,
+    "name": "Lily Xu",
+    "age": 17,
+    "maths": 85,
+    "physics": 90,
+    "chemistry": 92
+  }
+]
